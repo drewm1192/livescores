@@ -1,7 +1,7 @@
 [
 {
 "id":1,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"New York Giants",
 "awayTeam":"Carolina Panthers",
@@ -32,7 +32,7 @@
 },
 {
 "id":2,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Atlanta Falcons",
 "awayTeam":"Cinncinatti Bengals",
@@ -63,7 +63,7 @@
 },
 {
 "id":3,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Detroit Lions",
 "awayTeam":"Jacksonville Jaguars",
@@ -94,7 +94,7 @@
 },
 {
 "id":4,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Houston Texans",
 "awayTeam":"Miami Dolphins",
@@ -125,7 +125,7 @@
 },
 {
 "id":5,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Pittsburgh Steelers",
 "awayTeam":"Buffalo Bills",
@@ -156,7 +156,7 @@
 },
 {
 "id":6,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Indianapolis Colts",
 "awayTeam":"Chicago Bears",
@@ -187,7 +187,7 @@
 },
 {
 "id":7,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"New York Jets",
 "awayTeam":"Tampa Bay Buccaneers",
@@ -218,7 +218,7 @@
 },
 {
 "id":8,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Green Bay Packers",
 "awayTeam":"New England Patriots",
@@ -247,11 +247,9 @@
 "spreadBetAmount":0,
 "overUnderBetAmt":0
 },
-
-
 {
 "id":9,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Minnesota Vikings",
 "awayTeam":"Tennessee Titans",
@@ -282,7 +280,7 @@
 },
 {
 "id":10,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Arizona Cardinals",
 "awayTeam":"Kansas City Chiefs",
@@ -313,7 +311,7 @@
 },
 {
 "id":11,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"San Francisco 49ers",
 "awayTeam":"Denver Broncos",
@@ -344,7 +342,7 @@
 },
 {
 "id":12,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Los Angeles Rams",
 "awayTeam":"Las Vegas Raiders",
@@ -375,7 +373,7 @@
 },
 {
 "id":13,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Seattle Seahawks",
 "awayTeam":"Dallas Cowboys",
@@ -406,7 +404,7 @@
 },
 {
 "id":14,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Los Angeles Chargers",
 "awayTeam":"New Orleans Saints",
@@ -437,7 +435,7 @@
 },
 {
 "id":15,
-"week":1,
+"week":23,
 "year":2023,
 "homeTeam":"Washington Commanders",
 "awayTeam":"Baltimore Ravens",
