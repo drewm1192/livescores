@@ -1,4 +1,4 @@
-[
+{[
 {
 "id":1,
 "week":1,
@@ -495,4 +495,4 @@
 "spreadBetAmount":0,
 "overUnderBetAmt":0
 }
-]
+]}
